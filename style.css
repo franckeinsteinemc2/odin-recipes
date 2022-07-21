@@ -1,20 +1,30 @@
+body{
+
+
+}
+
+
+
 img {
-    width: 50%;
+    width: 70%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto
 
 }
-h1{
-    text-align: center;    
-}
+
+
 
 div{
-    width: 50% ;
+    width: auto ;
     height: auto;
     text-align: center;
     display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    flex-wrap: wrap;
+    
 }
 
 ul {
